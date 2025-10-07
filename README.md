@@ -19,6 +19,7 @@ O **HardIA** é uma plataforma inovadora que utiliza inteligência artificial pa
 * **Questionário Inteligente:** Coleta os detalhes da sua configuração de hardware de forma amigável e responsiva.
 * **Análise com IA:** Compara seu hardware com os requisitos de milhares de softwares, gerando um diagnóstico preciso em segundos.
 * **Recomendações Personalizadas:** Oferece sugestões claras de upgrades quando necessário e explicações sobre possíveis gargalos.
+* **Roleta Personalizada:** Para maior interatividade!
 ---
 
 ## 👥 Equipe de Desenvolvimento
@@ -27,7 +28,7 @@ O **HardIA** é uma plataforma inovadora que utiliza inteligência artificial pa
 | :--- | :--- |
 | Emilly Budri | FrontEnd Developer |
 | Íris Oliveira | Design de logo e slides |
-| Laura Cristini | Pesquisa |
+| Laura Cristini | Pesquisa e Roleta |
 | Stela Montenegro | Backend Developer |
 
 *Desenvolvido no 2º Ciclo de DSM na FATEC Diadema, com a orientação do Professor Bruno Zolotareff (Dev. Web II).*
