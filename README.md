@@ -1,4 +1,4 @@
-# HardIA - Diagnóstico Inteligente de Hardware ATUALIZADO 🚀
+# HardIA - ATUALIZADO COM ROLETA
 
 <p align="center">
   <img src="https://github.com/EmillyBudriBognar/HardIA/blob/main/public/assets/banner-hardia.png" alt="Banner do HardIA" width="600"/>
